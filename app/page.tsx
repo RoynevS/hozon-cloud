@@ -1,7 +1,7 @@
 export default function Home() {
   return (
-    <div className="flex h-screen items-center justify-center bg-amber-100">
-      <h1 className="text-3xl font-bold text-brand">HozonCloud - Storage</h1>
+    <div className="flex-center h-screen">
+      <h1 className="h1">HozonCloud - Storage</h1>
     </div>
   );
 }
